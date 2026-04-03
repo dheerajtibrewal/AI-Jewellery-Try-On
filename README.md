@@ -50,8 +50,31 @@ Visit `http://localhost:5173` to start trying on jewellery.
 
 ## 📸 Screenshots
 
-![Demo](./assets/demo.gif)
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/5f1c512e-c628-4bd6-9cce-fc9bdf203930" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/875f21ca-c000-4312-bc5d-cae8f1eb3f6e" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/1c43ad48-233e-40a8-a62a-237cf50f27a4" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><em>Landing Page</em></td>
+    <td align="center"><em>Upload / Camera</em></td>
+    <td align="center"><em>Jewellery Collection</em></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/3914627b-af96-4d16-af7a-801c1b0e75b0" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/1417515a-0b28-42d3-af72-690674249ff3" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/80822961-0ae1-4ccc-a650-35f4112b0468" width="250"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center"><em>AI Generation</em></td>
+    <td align="center"><em>Final Result + Download</em></td>
+    <td align="center"><em>Redeem Offer</em></td>
+    <td></td>
+  </tr>
+</table>
 
----
+
 
 Built as a creative technology POC exploring AI-powered commerce experiences.
