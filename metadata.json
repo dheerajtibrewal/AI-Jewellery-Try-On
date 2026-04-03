@@ -1,0 +1,7 @@
+{
+  "name": "Virtual AI Try-On",
+  "description": "A premium virtual AI jewelry try-on experience for the Gudi Padwa campaign.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
